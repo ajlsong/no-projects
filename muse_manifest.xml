@@ -1,0 +1,91 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="noprojects.000webhostapp.com" resolutions="1x" timestamp="1589600196001">
+  <folder name="css">
+    <file name="site_global.css" crc="194442767"/>
+    <file name="master_a-master.css" crc="3854661244" ref="index:putt---peal,-2017:chaffy,-2018:nice-one-about"/>
+    <file name="master_m-master.css" crc="4037091387" ref="nice-one-about-mobile:nice-one-mobile"/>
+    <file name="index.css" crc="4188143917" ref="index"/>
+    <file name="putt---peal_-2017.css" crc="3775438427" ref="putt---peal,-2017"/>
+    <file name="nice-one-about-mobile.css" crc="480274064" ref="nice-one-about-mobile"/>
+    <file name="chaffy_-2018.css" crc="455718254" ref="chaffy,-2018"/>
+    <file name="nice-one-mobile.css" crc="3896391135" ref="nice-one-mobile"/>
+    <file name="nice-one-about.css" crc="3855640529" ref="nice-one-about"/>
+  </folder>
+  <folder name="assets">
+    <file name="text-highlight-color.mulib" crc="4122314517" seo="true" mt="1530825855000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nice-one-about:nice-one-mobile:nice-one-about-mobile:chaffy,-2018:putt---peal,-2017"/>
+    <file name="museutils.js" crc="340535759" ref="index:nice-one-about:nice-one-mobile:nice-one-about-mobile:chaffy,-2018:putt---peal,-2017"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nice-one-about:nice-one-mobile:nice-one-about-mobile:chaffy,-2018:putt---peal,-2017"/>
+    <file name="museconfig.js" crc="310584261" ref="index:nice-one-about:nice-one-mobile:nice-one-about-mobile:chaffy,-2018:putt---peal,-2017"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:nice-one-about:nice-one-mobile:nice-one-about-mobile:chaffy,-2018:putt---peal,-2017"/>
+    <file name="require.js" crc="7928878" ref="index:nice-one-about:nice-one-mobile:nice-one-about-mobile:chaffy,-2018:putt---peal,-2017"/>
+  </folder>
+  <folder name="images">
+    <file name="folly_norm.png" crc="271040972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="folly_hover-crop-u394.png" crc="4000789399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="golf_norm.png" crc="232372783" seo="true" ref="index:nice-one-mobile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nice-one-mobile" alt=""/>
+    </file>
+    <file name="golf_hover.png" crc="85230459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mouthpiece_norm.png" crc="4080394970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mouthpiece_hover.gif" crc="401709449" seo="true" ref="index:nice-one-mobile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nice-one-mobile" alt=""/>
+    </file>
+    <file name="sukkah_norm.png" crc="3980107710" seo="true" ref="index:nice-one-mobile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nice-one-mobile" alt=""/>
+    </file>
+    <file name="sukkah_hover.png" crc="4288555193" seo="true" ref="index:nice-one-mobile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nice-one-mobile" alt=""/>
+    </file>
+    <file name="niceone_web.jpg" crc="49920328" seo="true" ref="nice-one-about:nice-one-about-mobile">
+      <caption webpage="nice-one-about" alt=""/>
+      <caption webpage="nice-one-about-mobile" alt=""/>
+    </file>
+    <file name="folly_hover.png" crc="174515431" seo="true" ref="nice-one-mobile">
+      <caption webpage="nice-one-mobile" alt=""/>
+    </file>
+    <file name="004.jpg" crc="103410414" seo="true" ref="chaffy,-2018">
+      <caption webpage="chaffy,-2018" alt=""/>
+    </file>
+    <file name="008.jpg" crc="4226706004" seo="true" ref="chaffy,-2018">
+      <caption webpage="chaffy,-2018" alt=""/>
+    </file>
+    <file name="002.jpg" crc="374777244" seo="true" ref="chaffy,-2018">
+      <caption webpage="chaffy,-2018" alt=""/>
+    </file>
+    <file name="001.jpg" crc="3908769262" seo="true" ref="chaffy,-2018">
+      <caption webpage="chaffy,-2018" alt=""/>
+    </file>
+    <file name="img_1895.jpg" crc="3800882666" seo="true" ref="putt---peal,-2017">
+      <caption webpage="putt---peal,-2017" alt=""/>
+    </file>
+    <file name="img_1857-crop-u5828.jpg" crc="47206193" seo="true" ref="putt---peal,-2017">
+      <caption webpage="putt---peal,-2017" alt=""/>
+    </file>
+    <file name="img_1829.jpg" crc="4057667154" seo="true" ref="putt---peal,-2017">
+      <caption webpage="putt---peal,-2017" alt=""/>
+    </file>
+    <file name="img_1782.jpg" crc="387056365" seo="true" ref="putt---peal,-2017">
+      <caption webpage="putt---peal,-2017" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="158081228" seo="true" mt="1554259844341" redirect="true"/>
+  <file name="nice-one-about.html" crc="134636322" seo="true" mt="1554259844341" redirect="true"/>
+  <file name="nice-one-mobile.html" crc="4293518611" seo="true" mt="1549298840746" redirect="true"/>
+  <file name="nice-one-about-mobile.html" crc="4218387576" seo="true" mt="1549298840746" redirect="true"/>
+  <file name="chaffy,-2018.html" crc="3925206006" seo="true" mt="1554259844341" redirect="true"/>
+  <file name="putt---peal,-2017.html" crc="4086468182" seo="true" mt="1554259844341" redirect="true"/>
+</manifest>
